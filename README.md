@@ -62,6 +62,7 @@
         <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,linux,docker&theme=dark&perline=3" alt="Skills" />
       </a>
     </td>
+<<<<<<< HEAD
     <td align="center" valign="top" width="33%">
       <strong>💻 Languages</strong><br/><br/>
       <a href="https://skillicons.dev">
@@ -73,6 +74,16 @@
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,vue,figma,ps,ai,tailwind,mysql,git,github,postman&theme=dark&perline=3" alt="Skills" />
       </a>
+=======
+    <td width="65%" valign="middle">
+    <strong>Hey there! I'm Izemmouren Ilyes 👾</strong><br/><br/>
+
+**I'm an AI & Data Science student building systems that learn from data and solve real-world problems.**<br/><br/>
+
+📖 Currently exploring: Vision Transformers & Object Detection<br/>
+🌙 Motto: <i>"stubborn people change the world."</i><br/>
+🎭 Mood: <i><code>"I too am 'Whooo' but I'm also 'Wheee!' So the 'Wheee' balances the 'Whooo!'" — Esquie</code></i>
+>>>>>>> 4a1ff5a5749d39793ae795cc281edcbd19e183a9
     </td>
   </tr>
 </table>
