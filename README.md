@@ -5,7 +5,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="./assets/banner2.jpg" alt="banner" width="100%" />
+  <img src="./assets/happy-esquie.gif" alt="banner" width="100%" />
 </div>
 <br/>
 <div align="center">
