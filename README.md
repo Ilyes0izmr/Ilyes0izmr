@@ -5,7 +5,7 @@
 
 <!-- BANNER -->
 <div align="center">
-  <img src="./assets/happy-esquie.gif" alt="banner" width="100%" />
+  <img src="./assets/banner2.jpg" alt="banner" width="100%" />
 </div>
 <br/>
 <div align="center">
@@ -25,7 +25,7 @@
 <table align="center">
   <tr>
     <td width="45%" align="center" valign="middle">
-      <img src="./assets/scene.jpg" alt="Esquie" width="200" />
+      <img src="./assets/happy-esquie.gif" alt="Esquie" width="200" />
     </td>
     <td width="55%" valign="middle">
       <strong>Hey there! I'm Izemmouren Ilyes 👾</strong><br/><br/>
