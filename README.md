@@ -58,19 +58,19 @@
     <td align="center" valign="top" width="33%">
       <strong>🤖 AI & Data Science</strong><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,linux,docker&theme=dark&perline=3" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,linux,docker&theme=dark&perline=4" alt="Skills" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>💻 Languages</strong><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=java,javascript,typescript,c,cpp,html,css&theme=dark&perline=3" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=java,javascript,typescript,c,cpp,html,css&theme=dark&perline=4" alt="Skills" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
       <strong>🛠️ Tools & Frameworks</strong><br/><br/>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=react,vue,figma,ps,ai,tailwind,mysql,git,github,postman&theme=dark&perline=3" alt="Skills" />
+        <img src="https://skillicons.dev/icons?i=react,vue,figma,ps,ai,tailwind,mysql,git,github,postman&theme=dark&perline=4" alt="Skills" />
       </a>
     </td>
   </tr>
