@@ -19,24 +19,23 @@
 </div>
 
 <!-- ABOUT ME --------------------------------------------->
-<div align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=99999&color=E1F2F4&center=false&vCenter=true&width=700&height=50&lines=Know+About+Me" alt="Typing SVG" />
-  </a>
-</div>
 
-<div align="left">
-  <img align="left" src="./assets/happy-esquie.gif" alt="Esquie" width="240" hspace="20" />
-  
-  <strong>Hey there! I'm Izemmouren Ilyes 👾</strong><br/><br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&pause=99999&color=E1F2F4&center=false&vCenter=true&width=700&height=50&lines=Know+About+Me)](https://git.io/typing-svg)
 
-  I'm an AI & Data Science student building systems that learn from data and solve real-world problems.<br/><br/>
-
-  📖 Currently exploring: Vision Transformers & Object Detection<br/>
-  🌙 Motto: <i>"stubborn people change the world."</i><br/>
-  🎭 Mood: <i><code>"I too am 'Whooo' but I'm also 'Wheee!' So the 'Wheee' balances the 'Whooo!'" — Esquie</code></i>
-</div>
-<br clear="left"/>
+<table align="center">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <img src="./assets/scene.jpg" alt="Esquie" width="200" />
+    </td>
+    <td width="55%" valign="middle">
+      <strong>Hey there! I'm Izemmouren Ilyes 👾</strong><br/><br/>
+      I'm an AI &amp; Data Science student passionate about building intelligent systems that solve real-life problems — hopefully making your life a little easier.<br/><br/>
+      📖 Currently exploring: Vision Transformers & Object Detection<br/>
+      🌙 Motto: "Stubborn people change the world."</i><br/><br/>
+      🎭 Mood: <i><code>"I too am 'Whooo' but I'm also 'Wheee!' So the 'Wheee' balances the 'Whooo!'" — Esquie</code></i>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
