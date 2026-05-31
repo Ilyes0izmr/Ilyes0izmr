@@ -32,7 +32,7 @@
     <td width="65%" valign="middle">
     <strong>Hey there! I'm Izemmouren Ilyes 👾</strong><br/><br/>
 
-I'm an AI & Data Science student building systems that learn from data and solve real-world problems.<br/><br/>
+**I'm an AI & Data Science student building systems that learn from data and solve real-world problems.**<br/><br/>
 
 📖 Currently exploring: Vision Transformers & Object Detection<br/>
 🌙 Motto: <i>"stubborn people change the world."</i><br/>
