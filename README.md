@@ -29,10 +29,9 @@
     </td>
     <td width="55%" valign="middle">
       <strong>Hey there! I'm Izemmouren Ilyes 👾</strong><br/><br/>
-      I'm an AI &amp; Data Science student passionate about building intelligent systems that solve real-life problems — hopefully making your life a little easier.<br/><br/>
+      I'm an AI &amp; Data Science student passionate about building intelligent systems that solve real-life problems.<br/><br/>
       📖 Currently exploring: Vision Transformers & Object Detection<br/>
       🌙 Motto: "Stubborn people change the world."</i><br/><br/>
-      🎭 Mood: <i><code>"I too am 'Whooo' but I'm also 'Wheee!' So the 'Wheee' balances the 'Whooo!'" — Esquie</code></i>
     </td>
   </tr>
 </table>
@@ -56,19 +55,19 @@
 <table align="center">
   <tr>
     <td align="center" valign="top" width="33%">
-      <strong>🤖 AI & Data Science</strong><br/><br/>
+      <strong>AI & Data Science</strong><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,opencv,linux,docker&theme=light&perline=4" alt="Skills" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
-      <strong>💻 Languages</strong><br/><br/>
+      <strong>Languages</strong><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=java,javascript,typescript,c,cpp,html,css&theme=light&perline=4" alt="Skills" />
       </a>
     </td>
     <td align="center" valign="top" width="33%">
-      <strong>🛠️ Tools & Frameworks</strong><br/><br/>
+      <strong>Tools & Frameworks</strong><br/><br/>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=react,vue,figma,ps,ai,tailwind,mysql,git,github,postman&theme=light&perline=4" alt="Skills" />
       </a>
